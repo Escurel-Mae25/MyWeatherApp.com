@@ -3,7 +3,7 @@
 ## Screenshot
 
 
-The API provider: http://www.OpenWeatherMap.org
+
 
 ## Live demo
-[Javascript Weather App](https://bhaskar-maity.github.io/Javascript-weather-app/)
+[Javascript Weather App](https://github.com/Escurel-Mae25/MyWeatherApp.com.git/)
